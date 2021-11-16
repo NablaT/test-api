@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "messages": [
+    {
+      "id": "4",
+      "content": "Good! Are you available tomorrow?",
+      "read": false,
+      "date": "Sun Nov 15 2021 19:20:27 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "3",
+      "content": "Hey! Good and you?",
+      "date": "Sun Nov 15 2021 19:15:27 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "2",
+      "content": "How are you?",
+      "read": true,
+      "date": "Sun Nov 15 2021 19:11:27 GMT+0100 (Central European Standard Time)"
+    },
+    {
+      "id": "1",
+      "content": "Hello!",
+      "read": true,
+      "date": "Sun Nov 15 2021 18:11:27 GMT+0100 (Central European Standard Time)"
+    }
+  ]
+}
