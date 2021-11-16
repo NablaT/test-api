@@ -1,0 +1,15 @@
+{
+  "id": "1",
+  "name": "Nebory Talk",
+  "profileImage": "https://images.pexels.com/photos/2801603/pexels-photo-2801603.jpeg?auto=compress&cs=tinysrgb&h=100&w=100",
+  "email": "nebory.talk@email.com",
+  "title": "Ms",
+  "primaryTelephone": "44123456789",
+  "homeAddress": {
+    "line1": "Home house",
+    "line2": "1600 Street Road",
+    "townCity": "Dream City",
+    "postcode": "12345",
+    "country": "USA"
+  }
+}
