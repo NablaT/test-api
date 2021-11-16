@@ -1,0 +1,52 @@
+[
+    {
+        "id": "1",
+        "channel": {
+            "name": "Rock on!",
+            "profileImage": "https://images.pexels.com/photos/96380/pexels-photo-96380.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
+        },
+        "content": "The Fender Stratocaster, colloquially known as the Strat, is a model of electric guitar designed from 1952 into 1954 by Leo Fender",
+        "read": true,
+        "date": "Sun Nov 15 2021 13:11:27 GMT+0100 (Central European Standard Time)"
+    },
+    {
+        "id": "2",
+        "channel": {
+            "name": "Only running at 5AM at the morning!",
+            "profileImage": "https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
+        },
+        "content": "Who is planning to participate to the trail this week-end?",
+        "read": true,
+        "date": "Sun Nov 15 2021 14:11:27 GMT+0100 (Central European Standard Time)"
+    },
+    {
+        "id": "3",
+        "channel": {
+            "name": "The only thing I need is a burger!",
+            "profileImage": "https://images.pexels.com/photos/1893557/pexels-photo-1893557.jpeg?auto=compress&cs=tinysrgb&h=100&w=100"
+        },
+        "content": "McDonald's dessert, available only in Italy, is called the Sweety con Nutella, it's a burger with Nutella!!!",
+        "read": true,
+        "date": "Sun Nov 15 2021 16:20:49 GMT+0200 (Central European Summer Time)"
+    },
+    {
+        "id": "4",
+        "channel": {
+            "name": "Sun & Beach",
+            "profileImage": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
+        },
+        "read": false,
+        "content": "Guys, we need to come back to Koh Phi Phi... Long time! :(",
+        "date": "Sun Nov 15 2021 16:20:42 GMT+0200 (Central European Summer Time)"
+    },
+    {
+        "id": "5",
+        "channel": {
+            "name": "Gaming lab",
+            "profileImage": "https://images.pexels.com/photos/51415/pexels-photo-51415.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
+        },
+        "read": false,
+        "content": "First release will be out soon. Are you all ready for the launch?",
+        "date": "Sun Nov 15 2021 14:09:25 GMT+0200 (Central European Summer Time)"
+    }
+]
