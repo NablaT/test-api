@@ -12,7 +12,7 @@
     {
         "id": "2",
         "channel": {
-            "name": "Only running at 5AM at the morning!",
+            "name": "Only running at 5AM in the morning!",
             "profileImage": "https://images.pexels.com/photos/235922/pexels-photo-235922.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
         },
         "content": "Who is planning to participate to the trail this week-end?",
@@ -36,7 +36,7 @@
             "profileImage": "https://images.pexels.com/photos/994605/pexels-photo-994605.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=100&w=100"
         },
         "read": false,
-        "content": "Guys, we need to come back to Koh Phi Phi... Long time! :(",
+        "content": "Guys, we need to travel to Koh Phi Phi... Long time! :(",
         "date": "Sun Nov 15 2021 16:20:42 GMT+0200 (Central European Summer Time)"
     },
     {
